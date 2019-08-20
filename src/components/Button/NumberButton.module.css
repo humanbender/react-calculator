@@ -1,0 +1,15 @@
+.NumberButton {
+    background-color:rgb(243, 90, 73);
+    width:100%;
+    height:100%;
+    padding: 15px 32px;
+    padding-right:0;
+    padding-left:0;
+    text-align: center;
+    text-decoration: none;
+    display: table-cell;
+    color:#4b545c; 
+    box-shadow: 2px 2px #4b545c;
+    font-weight: bold;
+
+}
